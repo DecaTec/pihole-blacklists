@@ -1,2 +1,4 @@
 # LED Controller
 mhc8806us.magichue.net
+playatoms-pa.googleapis.com
+tracking.komoot.de
