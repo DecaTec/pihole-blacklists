@@ -11,6 +11,6 @@ tracking.komoot.de
 hicloud.com
 grs.hicloud.com
 configserver-dre.hicloud.com
-hwid-dre.hicloud.com
+hwid-dre.platform.hicloud.com
 pushtrs7.push.hicloud.com
 metrics1.data.hicloud.com
