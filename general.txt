@@ -14,3 +14,10 @@ configserver-dre.hicloud.com
 hwid-dre.platform.hicloud.com
 pushtrs7.push.hicloud.com
 metrics1.data.hicloud.com
+
+# Amazon Alexa
+avs-alexa-na.amazon.com
+vsp-alexa-eu.amazon.com
+
+# Sonos Metrics
+msmetrics.ws.sonos.com
