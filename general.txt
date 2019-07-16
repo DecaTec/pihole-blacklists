@@ -1,4 +1,8 @@
 # LED Controller
 mhc8806us.magichue.net
+# Some Google stuff
 playatoms-pa.googleapis.com
+# Tracking on komoot app
 tracking.komoot.de
+# Hicloud (Huawei)
+hicloud.com
