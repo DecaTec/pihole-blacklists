@@ -6,3 +6,6 @@ playatoms-pa.googleapis.com
 tracking.komoot.de
 # Hicloud (Huawei)
 hicloud.com
+#grs.hicloud.com
+#configserver-dre.hicloud.com
+#hwid-dre.hicloud.com
