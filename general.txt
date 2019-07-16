@@ -13,3 +13,4 @@ grs.hicloud.com
 configserver-dre.hicloud.com
 hwid-dre.hicloud.com
 pushtrs7.push.hicloud.com
+metrics1.data.hicloud.com
