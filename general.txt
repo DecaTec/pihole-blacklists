@@ -21,3 +21,9 @@ vsp-alexa-eu.amazon.com
 
 # Sonos Metrics
 msmetrics.ws.sonos.com
+
+# Hockey tracking
+gate.hockeyapp.net
+hockeyapp.net
+rink.hockeyapp.net
+sdk.hockeyapp.net
